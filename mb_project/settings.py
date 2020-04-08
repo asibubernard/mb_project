@@ -25,7 +25,7 @@ SECRET_KEY = '7_zaf95(8um^d*sb_1_c%w6#%f6bg$=1g+f94yi+bkas)xwp0v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*'] #new
+ALLOWED_HOSTS = ['*'] #new - DNS
 
 
 # Application definition
